@@ -1,8 +1,7 @@
 # IaC
 Let's Learn IaC
 ### Serverless Deployment Bucket 
-![click here](https://github.com/c4rb0nx1/IaC/blob/side/cloudformation-template-S3-Bucket.json).
-This CloudFormation template deploys an S3 bucket for storing code artifacts and assets for serverless deployments.
+This CloudFormation template deploys an S3 bucket for storing code artifacts and assets for serverless deployments. ![click here](https://github.com/c4rb0nx1/IaC/blob/side/cloudformation-template-S3-Bucket.json).
 
 ### The template contains the following resources:
 - ServerlessDeploymentBucket - An S3 bucket used for storing deployment files for serverless applications. The bucket is encrypted with default AES-256 encryption.
